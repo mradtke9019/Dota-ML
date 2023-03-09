@@ -1,0 +1,418 @@
+[
+    {
+        "solo_competitive_rank": 2054,
+        "profile": {
+            "account_id": 315917840,
+            "personaname": "Mr. Cat",
+            "name": null,
+            "plus": false,
+            "cheese": 0,
+            "steamid": "76561198276183568",
+            "avatar": "https://avatars.akamai.steamstatic.com/5da4127680f98b1dc33ac5042466573253160103.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/5da4127680f98b1dc33ac5042466573253160103_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/5da4127680f98b1dc33ac5042466573253160103_full.jpg",
+            "profileurl": "https://steamcommunity.com/id/nidahiko/",
+            "last_login": null,
+            "loccountrycode": "PE",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "rank_tier": 15,
+        "leaderboard_rank": null,
+        "mmr_estimate": {
+            "estimate": 2050
+        },
+        "competitive_rank": 2462
+    },
+    {
+        "solo_competitive_rank": null,
+        "competitive_rank": null,
+        "profile": {
+            "account_id": 478049481,
+            "personaname": "Burbuja",
+            "name": null,
+            "plus": false,
+            "cheese": 0,
+            "steamid": "76561198438315209",
+            "avatar": "https://avatars.akamai.steamstatic.com/88c1f776d55aa882ba741672b95ff8bd6e07d812.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/88c1f776d55aa882ba741672b95ff8bd6e07d812_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/88c1f776d55aa882ba741672b95ff8bd6e07d812_full.jpg",
+            "profileurl": "https://steamcommunity.com/profiles/76561198438315209/",
+            "last_login": null,
+            "loccountrycode": "PE",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "rank_tier": 51,
+        "leaderboard_rank": null,
+        "mmr_estimate": {
+            "estimate": 2899
+        }
+    },
+    {
+        "solo_competitive_rank": null,
+        "profile": {
+            "account_id": 167080078,
+            "personaname": "Red Imposter",
+            "name": null,
+            "plus": false,
+            "cheese": 0,
+            "steamid": "76561198127345806",
+            "avatar": "https://avatars.akamai.steamstatic.com/fe63b595bcb765ba066222533b0402f8fc43bf8f.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/fe63b595bcb765ba066222533b0402f8fc43bf8f_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/fe63b595bcb765ba066222533b0402f8fc43bf8f_full.jpg",
+            "profileurl": "https://steamcommunity.com/profiles/76561198127345806/",
+            "last_login": null,
+            "loccountrycode": "CA",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "rank_tier": null,
+        "competitive_rank": null,
+        "leaderboard_rank": null,
+        "mmr_estimate": {
+            "estimate": 3420
+        }
+    },
+    {
+        "profile": {
+            "account_id": 31420929,
+            "personaname": "Sepsis",
+            "name": null,
+            "plus": true,
+            "cheese": 0,
+            "steamid": "76561197991686657",
+            "avatar": "https://avatars.akamai.steamstatic.com/3fd5943650b661e1aa0abb5d8f250604e6e4e674.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/3fd5943650b661e1aa0abb5d8f250604e6e4e674_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/3fd5943650b661e1aa0abb5d8f250604e6e4e674_full.jpg",
+            "profileurl": "https://steamcommunity.com/profiles/76561197991686657/",
+            "last_login": "2016-08-12T17:11:38.936Z",
+            "loccountrycode": null,
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "rank_tier": 53,
+        "mmr_estimate": {
+            "estimate": 3407
+        },
+        "leaderboard_rank": null,
+        "solo_competitive_rank": 3769,
+        "competitive_rank": 3578
+    },
+    {
+        "profile": {
+            "account_id": 32992341,
+            "personaname": "Pchel",
+            "name": null,
+            "plus": true,
+            "cheese": 0,
+            "steamid": "76561197993258069",
+            "avatar": "https://avatars.akamai.steamstatic.com/53af642cd1960ede3f86588a994acd5ea2b3ae6b.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/53af642cd1960ede3f86588a994acd5ea2b3ae6b_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/53af642cd1960ede3f86588a994acd5ea2b3ae6b_full.jpg",
+            "profileurl": "https://steamcommunity.com/id/pchel666/",
+            "last_login": "2019-08-09T04:04:50.192Z",
+            "loccountrycode": "US",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "leaderboard_rank": null,
+        "rank_tier": 43,
+        "solo_competitive_rank": 3618,
+        "competitive_rank": 3817,
+        "mmr_estimate": {
+            "estimate": 3476
+        }
+    },
+    {
+        "profile": {
+            "account_id": 109642309,
+            "personaname": "TrillRecognizeTrill",
+            "name": null,
+            "plus": false,
+            "cheese": 0,
+            "steamid": "76561198069908037",
+            "avatar": "https://avatars.akamai.steamstatic.com/ddfe57ef230b909d8921ca3ba72ae1b1192ab755.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/ddfe57ef230b909d8921ca3ba72ae1b1192ab755_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/ddfe57ef230b909d8921ca3ba72ae1b1192ab755_full.jpg",
+            "profileurl": "https://steamcommunity.com/id/DOINBIGTHINGS/",
+            "last_login": "2018-02-27T23:35:59.002Z",
+            "loccountrycode": "NR",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "rank_tier": 45,
+        "leaderboard_rank": null,
+        "competitive_rank": null,
+        "solo_competitive_rank": 3696,
+        "mmr_estimate": {
+            "estimate": 3443
+        }
+    },
+    {
+        "rank_tier": 45,
+        "profile": {
+            "account_id": 94508359,
+            "personaname": "Indoor Fish",
+            "name": null,
+            "plus": true,
+            "cheese": 0,
+            "steamid": "76561198054774087",
+            "avatar": "https://avatars.akamai.steamstatic.com/d390f076a9b39d158ad6cfd0ba70c489a100d48b.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/d390f076a9b39d158ad6cfd0ba70c489a100d48b_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/d390f076a9b39d158ad6cfd0ba70c489a100d48b_full.jpg",
+            "profileurl": "https://steamcommunity.com/profiles/76561198054774087/",
+            "last_login": "2017-04-07T14:00:14.473Z",
+            "loccountrycode": "US",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "solo_competitive_rank": 3620,
+        "leaderboard_rank": null,
+        "mmr_estimate": {
+            "estimate": 3400
+        },
+        "competitive_rank": 3612
+    },
+    {
+        "rank_tier": 52,
+        "profile": {
+            "account_id": 174277260,
+            "personaname": "X",
+            "name": null,
+            "plus": true,
+            "cheese": 0,
+            "steamid": "76561198134542988",
+            "avatar": "https://avatars.akamai.steamstatic.com/c161ec340838dd9dedf261282f121ef13ff35f36.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/c161ec340838dd9dedf261282f121ef13ff35f36_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/c161ec340838dd9dedf261282f121ef13ff35f36_full.jpg",
+            "profileurl": "https://steamcommunity.com/profiles/76561198134542988/",
+            "last_login": "2020-02-15T15:44:13.604Z",
+            "loccountrycode": "CN",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "solo_competitive_rank": null,
+        "leaderboard_rank": null,
+        "competitive_rank": null,
+        "mmr_estimate": {
+            "estimate": 3338
+        }
+    },
+    {
+        "solo_competitive_rank": null,
+        "rank_tier": 45,
+        "leaderboard_rank": null,
+        "profile": {
+            "account_id": 123192838,
+            "personaname": "\u6765\u5566\uff01 \u8001\u5f1f",
+            "name": null,
+            "plus": false,
+            "cheese": 0,
+            "steamid": "76561198083458566",
+            "avatar": "https://avatars.akamai.steamstatic.com/1566e2360f0e661dabdf3f91e94bc59a5455141d.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/1566e2360f0e661dabdf3f91e94bc59a5455141d_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/1566e2360f0e661dabdf3f91e94bc59a5455141d_full.jpg",
+            "profileurl": "https://steamcommunity.com/profiles/76561198083458566/",
+            "last_login": null,
+            "loccountrycode": null,
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "competitive_rank": null,
+        "mmr_estimate": {
+            "estimate": 3480
+        }
+    },
+    {
+        "profile": {
+            "account_id": 26720461,
+            "personaname": "Muffin",
+            "name": null,
+            "plus": true,
+            "cheese": 0,
+            "steamid": "76561197986986189",
+            "avatar": "https://avatars.akamai.steamstatic.com/0c76a6c2909ca1fd4aed9c2e663c18f4312cac30.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/0c76a6c2909ca1fd4aed9c2e663c18f4312cac30_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/0c76a6c2909ca1fd4aed9c2e663c18f4312cac30_full.jpg",
+            "profileurl": "https://steamcommunity.com/id/theericmartin/",
+            "last_login": null,
+            "loccountrycode": "US",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "solo_competitive_rank": 3450,
+        "rank_tier": 53,
+        "leaderboard_rank": null,
+        "competitive_rank": 3190,
+        "mmr_estimate": {
+            "estimate": 3303
+        }
+    },
+    {
+        "solo_competitive_rank": 4039,
+        "rank_tier": 52,
+        "leaderboard_rank": null,
+        "profile": {
+            "account_id": 78214023,
+            "personaname": "Zi0n1",
+            "name": null,
+            "plus": true,
+            "cheese": 0,
+            "steamid": "76561198038479751",
+            "avatar": "https://avatars.akamai.steamstatic.com/d28db885fd2e736cd613711fa6dbed0e0899f2e9.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/d28db885fd2e736cd613711fa6dbed0e0899f2e9_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/d28db885fd2e736cd613711fa6dbed0e0899f2e9_full.jpg",
+            "profileurl": "https://steamcommunity.com/profiles/76561198038479751/",
+            "last_login": "2017-04-21T18:24:44.661Z",
+            "loccountrycode": "US",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "competitive_rank": null,
+        "mmr_estimate": {
+            "estimate": 3632
+        }
+    },
+    {
+        "rank_tier": 34,
+        "solo_competitive_rank": null,
+        "profile": {
+            "account_id": 135772469,
+            "personaname": "Breizen",
+            "name": null,
+            "plus": false,
+            "cheese": 0,
+            "steamid": "76561198096038197",
+            "avatar": "https://avatars.akamai.steamstatic.com/32235b7297ce0480c27fa4e583e00686fa55a645.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/32235b7297ce0480c27fa4e583e00686fa55a645_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/32235b7297ce0480c27fa4e583e00686fa55a645_full.jpg",
+            "profileurl": "https://steamcommunity.com/profiles/76561198096038197/",
+            "last_login": null,
+            "loccountrycode": null,
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "leaderboard_rank": null,
+        "competitive_rank": null,
+        "mmr_estimate": {
+            "estimate": 2967
+        }
+    },
+    {
+        "rank_tier": 51,
+        "solo_competitive_rank": 3890,
+        "profile": {
+            "account_id": 111901976,
+            "personaname": "ReVamp",
+            "name": null,
+            "plus": true,
+            "cheese": 0,
+            "steamid": "76561198072167704",
+            "avatar": "https://avatars.akamai.steamstatic.com/0e3f0fdebd04027a192a41ce184545cd299096a7.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/0e3f0fdebd04027a192a41ce184545cd299096a7_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/0e3f0fdebd04027a192a41ce184545cd299096a7_full.jpg",
+            "profileurl": "https://steamcommunity.com/profiles/76561198072167704/",
+            "last_login": "2018-06-14T12:26:54.127Z",
+            "loccountrycode": "US",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "mmr_estimate": {
+            "estimate": 3348
+        },
+        "leaderboard_rank": null,
+        "competitive_rank": 3642
+    },
+    {
+        "competitive_rank": null,
+        "solo_competitive_rank": 2908,
+        "mmr_estimate": {
+            "estimate": 3109
+        },
+        "profile": {
+            "account_id": 86737505,
+            "personaname": "Shambles",
+            "name": null,
+            "plus": false,
+            "cheese": 0,
+            "steamid": "76561198047003233",
+            "avatar": "https://avatars.akamai.steamstatic.com/b76fe73bd39ed94382def75129b4e76d2476ac86.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/b76fe73bd39ed94382def75129b4e76d2476ac86_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/b76fe73bd39ed94382def75129b4e76d2476ac86_full.jpg",
+            "profileurl": "https://steamcommunity.com/id/shamblesshambles/",
+            "last_login": null,
+            "loccountrycode": "US",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "rank_tier": 43,
+        "leaderboard_rank": null
+    },
+    {
+        "profile": {
+            "account_id": 53655370,
+            "personaname": "GodVermin",
+            "name": null,
+            "plus": true,
+            "cheese": 0,
+            "steamid": "76561198013921098",
+            "avatar": "https://avatars.akamai.steamstatic.com/53cbc3bc9c3f49d9b7667c60354cc634328e6190.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/53cbc3bc9c3f49d9b7667c60354cc634328e6190_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/53cbc3bc9c3f49d9b7667c60354cc634328e6190_full.jpg",
+            "profileurl": "https://steamcommunity.com/id/God_Vermin/",
+            "last_login": "2019-07-13T22:44:39.320Z",
+            "loccountrycode": "US",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "leaderboard_rank": null,
+        "rank_tier": 52,
+        "solo_competitive_rank": 3546,
+        "competitive_rank": 2689,
+        "mmr_estimate": {
+            "estimate": 3387
+        }
+    },
+    {
+        "rank_tier": null,
+        "profile": {
+            "account_id": 167982227,
+            "personaname": "choda",
+            "name": null,
+            "plus": false,
+            "cheese": 0,
+            "steamid": "76561198128247955",
+            "avatar": "https://avatars.akamai.steamstatic.com/6ee2b77f5c79d32797c2910524431b93bdd3837c.jpg",
+            "avatarmedium": "https://avatars.akamai.steamstatic.com/6ee2b77f5c79d32797c2910524431b93bdd3837c_medium.jpg",
+            "avatarfull": "https://avatars.akamai.steamstatic.com/6ee2b77f5c79d32797c2910524431b93bdd3837c_full.jpg",
+            "profileurl": "https://steamcommunity.com/profiles/76561198128247955/",
+            "last_login": "2022-11-08T15:25:36.165Z",
+            "loccountrycode": "US",
+            "status": null,
+            "is_contributor": false,
+            "is_subscriber": false
+        },
+        "solo_competitive_rank": null,
+        "competitive_rank": null,
+        "leaderboard_rank": null,
+        "mmr_estimate": {
+            "estimate": 3586
+        }
+    }
+]
